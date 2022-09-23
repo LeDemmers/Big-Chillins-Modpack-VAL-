@@ -1,6 +1,3 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
 # Big Chillins Modpack (VALHEIM)
 Heavily RPG Influenced Modpack for Valheim pieced together by BigChillin and DEMMERS 
 
